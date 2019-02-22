@@ -1,0 +1,36 @@
+C:\Users\benla\Desktop\Net Development\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\bin\Debug\Lab01 - Benjamin Langlois.exe.config
+C:\Users\benla\Desktop\Net Development\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\bin\Debug\Lab01 - Benjamin Langlois.exe
+C:\Users\benla\Desktop\Net Development\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\bin\Debug\Lab01 - Benjamin Langlois.pdb
+C:\Users\benla\Desktop\Net Development\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\bin\Debug\Lab01 - Benjamin Langlois.xml
+C:\Users\benla\Desktop\Net Development\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.vbprojAssemblyReference.cache
+C:\Users\benla\Desktop\Net Development\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01___Benjamin_Langlois.Resources.resources
+C:\Users\benla\Desktop\Net Development\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.vbproj.GenerateResource.cache
+C:\Users\benla\Desktop\Net Development\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.vbproj.CoreCompileInputs.cache
+C:\Users\benla\Desktop\Net Development\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.exe
+C:\Users\benla\Desktop\Net Development\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.xml
+C:\Users\benla\Desktop\Net Development\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.pdb
+C:\Users\benla\Desktop\Net Development\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01___Benjamin_Langlois.frmAverageUnitsShipped.resources
+C:\Users\benla\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\bin\Debug\Lab01 - Benjamin Langlois.exe.config
+C:\Users\benla\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\bin\Debug\Lab01 - Benjamin Langlois.exe
+C:\Users\benla\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\bin\Debug\Lab01 - Benjamin Langlois.pdb
+C:\Users\benla\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\bin\Debug\Lab01 - Benjamin Langlois.xml
+C:\Users\benla\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.vbprojAssemblyReference.cache
+C:\Users\benla\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01___Benjamin_Langlois.frmAverageUnitsShipped.resources
+C:\Users\benla\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01___Benjamin_Langlois.Resources.resources
+C:\Users\benla\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.vbproj.GenerateResource.cache
+C:\Users\benla\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.vbproj.CoreCompileInputs.cache
+C:\Users\benla\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.exe
+C:\Users\benla\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.xml
+C:\Users\benla\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.pdb
+C:\Users\benla\OneDrive\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\bin\Debug\Lab01 - Benjamin Langlois.exe.config
+C:\Users\benla\OneDrive\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\bin\Debug\Lab01 - Benjamin Langlois.exe
+C:\Users\benla\OneDrive\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\bin\Debug\Lab01 - Benjamin Langlois.pdb
+C:\Users\benla\OneDrive\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\bin\Debug\Lab01 - Benjamin Langlois.xml
+C:\Users\benla\OneDrive\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.vbprojAssemblyReference.cache
+C:\Users\benla\OneDrive\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01___Benjamin_Langlois.frmAverageUnitsShipped.resources
+C:\Users\benla\OneDrive\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01___Benjamin_Langlois.Resources.resources
+C:\Users\benla\OneDrive\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.vbproj.GenerateResource.cache
+C:\Users\benla\OneDrive\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.vbproj.CoreCompileInputs.cache
+C:\Users\benla\OneDrive\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.exe
+C:\Users\benla\OneDrive\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.xml
+C:\Users\benla\OneDrive\Desktop\Net Development\Lab 1 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\Lab01 - Benjamin Langlois\obj\Debug\Lab01 - Benjamin Langlois.pdb
